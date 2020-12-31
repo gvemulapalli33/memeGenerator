@@ -3,9 +3,9 @@
 Link to published site: https://gvemulapalli33.github.io/weather/
 
 ## Desktop Version
-![screenshot](https://raw.github.com/gvemulapalli33/weather/master/desktop.png)
+![screenshot](https://raw.github.com/gvemulapalli33/memeGenerator/master/desktop.png)
 ## Mobile Layout
-![movies screenshot](https://raw.github.com/gvemulapalli33/weather/master/mobile.png)
+![movies screenshot](https://raw.github.com/gvemulapalli33/memeGenerator/master/mobile.png)
 
 
 ### Features

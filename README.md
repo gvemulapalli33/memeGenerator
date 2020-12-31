@@ -1,6 +1,6 @@
 # Meme Generator
 
-Link to published site: https://gvemulapalli33.github.io/weather/
+Link to published site: https://gvemulapalli33.github.io/memeGenerator/
 
 ## Desktop Version
 ![screenshot](https://raw.github.com/gvemulapalli33/memeGenerator/master/desktop.png)
